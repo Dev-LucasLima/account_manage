@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'pages/client_list_page.dart';
+import 'ui/pages/client_list_page.dart';
 
 class ClientManager extends StatelessWidget {
   const ClientManager({super.key});

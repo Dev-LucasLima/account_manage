@@ -1,4 +1,4 @@
-import 'package:account_manager/pages/client_edit_page.dart';
+import 'package:account_manager/ui/pages/client_edit_page.dart';
 import 'package:flutter/material.dart';
 
 class ClientDetailPage extends StatelessWidget {
